@@ -1,0 +1,15 @@
+# Ignore bits related to the two contributory repos
+__pycache__
+shared
+rt_handlers
+app.py
+Pipfile
+Pipfile.lock
+# Ignore the VSCode settings
+.vscode
+# Ignore the custom fields cache file
+cf_cachefile
+# Ignore the webhook's configuration file
+configuration.jsonc
+# Ignore the Zappa settings file
+zappa_settings.json
